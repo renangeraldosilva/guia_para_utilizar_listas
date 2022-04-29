@@ -1,0 +1,16 @@
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\bin\Debug\Aula33.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\bin\Debug\Aula33.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\bin\Debug\Aula33.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Telas.TelaCriar.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Telas.TelaAdicionar.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Telas.TelaRemover.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Telas.TelaUnirListas.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula33\obj\Debug\Aula33.Telas.TelaOrganizar.resources
